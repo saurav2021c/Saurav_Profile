@@ -71,7 +71,6 @@
   <br/>
 
   <p align="left">
-
   <a href="https://github.com/saurav2021c/Portfolio-project">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Portfolio-project&theme=react&bg_color=0D1117" alt="Portfolio-project"></a>
   <a href="https://github.com/saurav2021c/Web_Scraping_Project">
