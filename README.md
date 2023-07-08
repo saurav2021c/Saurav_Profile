@@ -70,15 +70,17 @@
  <summary> <h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
 
-  <p align="left">
+<p align="left">
+
   <a href="https://github.com/saurav2021c/Portfolio-project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Portfolio-project&theme=react&bg_color=0D1117" alt="Portfolio-project"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Portfolio-project&theme=react&bg_color=0D1117" alt="Portfolio-project"></a>
   <a href="https://github.com/saurav2021c/Web_Scraping_Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Web_Scraping_Project&theme=react&bg_color=0D1117" alt="Web_Scraping_Project"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Web_Scraping_Project&theme=react&bg_color=0D1117" alt="Web_Scraping_Project"></a>
   <a href="https://github.com/saurav2021c/Age-Gender-Detection-System">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Age-Gender-Detection-System&theme=react&bg_color=0D1117" alt="Age-Gender-Detection-System"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Age-Gender-Detection-System&theme=react&bg_color=0D1117" alt="Age-Gender-Detection-System"></a>
   <a href="https://github.com/saurav2021c/Loan_Prediction_System">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Loan_Prediction_System&theme=react&bg_color=0D1117" alt="Loan_Prediction_System"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Loan_Prediction_System&theme=react&bg_color=0D1117" alt="Loan_Prediction_System"></a>
+  
   
   
   </p>
