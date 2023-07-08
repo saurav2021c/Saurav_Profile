@@ -43,38 +43,6 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 
 
-<!-- ##### WILL WORK ON THIS LATER ##### -->
-
-<!--<code></code>-->
-<!---->
-<!--<code><img src="imgs/c.png" width="30"/></code>-->
-<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="30" height="30" alt="Angular" /></code>--> 
-<!---->
-<!--<code><img src="imgs/flask.png" width="30"/></code>-->
-<!--<code><img src="imgs/perl.png" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>-->
-<!--<code><img src="imgs/asm.png" width="30"/></code>-->
-<!--<code><img src="imgs/github.png" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>-->
-<!--<code><img src="imgs/blogger.png" width="30"/></code>-->
-<!--<code><img src="imgs/wix.png" width="30"/></code>-->
-<!--<code><img src="imgs/wordpress.png" width="30"/></code>-->
-<!--<code><img src="imgs/andriod_studio.png" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></code>-->
-<!--<code><img src="imgs/rasberry_pi.png" width="30"/></code>-->
-<!--<code><img src="imgs/power_shell.png" width="30"/></code>-->
-<!--<code><img src="imgs/bash.png" width="30"/></code>-->
-<!--<code><img src="imgs/terminal.png" width="30"/></code>-->
-<!--<code><img src="imgs/android_os.png" width="30"/></code>-->
-<!--<code><img src="imgs/tails.png" width="30" height=" "/></code>-->
-<!--<code><img src="imgs/windows_os.png" width="30"/></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>-->
-<!---->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" /></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="30" height="30" alt="XD" /></code>-->
-<!--<code><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="30" width="30" border="0"></code>-->
-
 <!-- ###### END OF Languages | Tools ##### -->
 
 
@@ -93,6 +61,7 @@
 <br />
 
 <!-- ###### END OF Currently Learning ##### -->
+
 
 
  <!-- ###### Some of my projects ##### -->
@@ -123,6 +92,28 @@
 <!-- ###### END OF Some of my projects  ##### -->
 
 
+
+
+
+<!-- ###### Achievements  ##### -->
+
+<details>
+  <summary> <h3> 🔰 Achievements </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <h3>Leetcode:</h3>
+  <a href="https://leetcode.com/sauravsinghhhh/">
+      <img src="https://leetcard.jacoblin.cool/sauravsinghhhh?ext=heatmap&amp;show_rank=false&amp;background,icon&amp;border=5&amp;radius=20&amp;cache=0" width="600"  alt="leetcode"></a>
+
+  <h3>HackerRank:</h3>
+  <a href="https://www.hackerrank.com/saurav2021c/">
+      <img src="Images/readme%20icon/non%20gradient/hackerrank.png" width="280" alt="hackerrank" ></a>
+</details>
+
+<!-- ###### END OF Achievements  ##### -->
+
+
+
+
+
 <!-- ###### My Github Stats  ##### -->
 
 <h4 align="center">
@@ -130,7 +121,6 @@
 </h4>
   
   
- <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
 
  
  <div align="center">
@@ -168,7 +158,7 @@
 
 <!-- ###### FOOTER ##### -->
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Saurav TYP" alt="Saurav Singh"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
