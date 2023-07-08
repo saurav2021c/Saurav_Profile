@@ -2,7 +2,7 @@
 
 <!-- ###### HEAD ##### -->
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saurav-Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Saurav" alt="Saurav" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saurav-Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 <p align="center">
@@ -158,7 +158,7 @@
 
 <!-- ###### FOOTER ##### -->
 
-<img width=100% title="Saurav TYP" alt="Saurav Singh"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Saurav" alt="Saurav Singh"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
