@@ -27,7 +27,7 @@
 <!-- ###### Languages | Tools ##### -->
 
 <br />
-<h4 align="center"><br>
+<h4 ><br>
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h4>
 
@@ -37,8 +37,6 @@
 <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
 <code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></code>
 <code><img src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg" width="30" height="30" alt="ReactJS" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
 
@@ -87,25 +85,14 @@
 📖 Currently Learning 📖 
  </h4>
 
-<code><img src="imgs/django.png" width="30"/></code>
+<code><img src="Images/readme icon/non gradient/django.png" width="30"/></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>
-<code><img src="https://camo.githubusercontent.com/44dd61a15a5b8943fe37e30ed51889071fca2be51644b3770b6de5301ba7c79e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f6d616368696e652d6c6561726e696e672d332d737465702d696e666f677261706869632d6172746966696369616c2d696e74656c6c6967656e63652d6d616368696e652d766563746f722d69643936323231393836303f6b3d36266d3d39363232313938363026733d3631327836313226773d3026683d79726963597955715a62494c4d487033497674656e533378625244687531773175356b6b32617a3574626f3d" width="35"/></code>
-<code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
-<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
-
-
 
 <!---->
 
 <br />
 
-
 <!-- ###### END OF Currently Learning ##### -->
-
-
-
 
 
  <!-- ###### Some of my projects ##### -->
@@ -115,24 +102,25 @@
   <br/>
 
   <p align="left">
-  <a href="https://github.com/The-Young-Programmer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/The-Young-Programmer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
+
+  <a href="https://github.com/saurav2021c/Portfolio-project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Portfolio-project&theme=react&bg_color=0D1117" alt="Portfolio-project"></a>
+  <a href="https://github.com/saurav2021c/Web_Scraping_Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Web_Scraping_Project&theme=react&bg_color=0D1117" alt="Web_Scraping_Project"></a>
+  <a href="https://github.com/saurav2021c/Age-Gender-Detection-System">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Age-Gender-Detection-System&theme=react&bg_color=0D1117" alt="Age-Gender-Detection-System"></a>
+  <a href="https://github.com/saurav2021c/Loan_Prediction_System">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Loan_Prediction_System&theme=react&bg_color=0D1117" alt="Loan_Prediction_System"></a>
+  
   
   </p>
 
  <p align="left">
-  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/saurav2021c?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </details>
 
 <!-- ###### END OF Some of my projects  ##### -->
-
 
 
 <!-- ###### My Github Stats  ##### -->
@@ -146,29 +134,15 @@
 
  
  <div align="center">
-<a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats" /></a>
-<a href="https://github.com/The-Young-Programmer"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/saurav2021c"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=saurav2021c&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Saurav's GitHub stats" /></a>
+<a href="https://github.com/saurav2021c"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav2021c&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/saurav2021c"/><img alt="Saurav Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav2021c&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <!-- ###### END OF My Github Stats  ##### -->
 
 
 
-<!-- ###### QUOTE OF THE DAY ##### -->
-
-<h4 align="left">
-<!-- Quote Of The Day --> Fun Fact Of The Day
-</h4>
-<!--
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
--->
-
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
-  
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
-<!-- ###### END OF QUOTE OF THE DAY ##### -->
 
 
 
@@ -181,10 +155,10 @@
 </h4>
 
 <p align="center">
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
- <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="https://www.instagram.com/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.linkedin.com/in/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
+ <a href="https://twitter.com/sauravsinghhhhs" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+ <a href="saurav2021c@gmail.com" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
 </p>
 
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
@@ -193,14 +167,6 @@
 
 
 <!-- ###### FOOTER ##### -->
-
-<h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/The-Young-Programmer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>
-
-
-
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
