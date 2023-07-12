@@ -101,7 +101,7 @@
   <summary> <h3> 🔰 Achievements </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <h3>Leetcode:</h3>
   <a href="https://leetcode.com/sauravsinghhhh/"> 
-      <img src="[Images/readme%20icon/non%20gradient/Sauravleecode.png](https://github.com/saurav2021c/saurav2021c/assets/97289683/3b3e4483-1df8-44c7-97e2-81c1470c1ab4)" width="400"  alt="leetcode"></a>
+      <img src="https://github.com/saurav2021c/saurav2021c/assets/97289683/3b3e4483-1df8-44c7-97e2-81c1470c1ab4" width="400"  alt="leetcode"></a>
 
   <h3>HackerRank:</h3>
   <a href="https://www.hackerrank.com/saurav2021c/">
