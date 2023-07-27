@@ -71,15 +71,14 @@
   <br/>
 
 <p align="left">
-
+  <a href="https://github.com/saurav2021c/AI-Amplify_Twitter_Tweets_Sentiment_Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=AI-Amplify_Twitter_Tweets_Sentiment_Analysis&theme=react&bg_color=0D1117" alt="AI-Amplify_Twitter_Tweets_Sentiment_Analysis"></a>
   <a href="https://github.com/saurav2021c/Web_Scraping_Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Web_Scraping_Project&theme=react&bg_color=0D1117" alt="Web_Scraping_Project"></a>
   <a href="https://github.com/saurav2021c/Age-Gender-Detection-System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Age-Gender-Detection-System&theme=react&bg_color=0D1117" alt="Age-Gender-Detection-System"></a>
   <a href="https://github.com/saurav2021c/Loan_Prediction_System">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Loan_Prediction_System&theme=react&bg_color=0D1117" alt="Loan_Prediction_System"></a>
-  <a href="https://github.com/saurav2021c/Employee_Management_System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurav2021c&repo=Employee_Management_System&theme=react&bg_color=0D1117" alt="Portfolio-project"></a>
   
   
   </p>
